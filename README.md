@@ -1,5 +1,6 @@
 # Customer-Loyalty-Program
-
+**Cognos IBM Dashboard
+**
 <img width="1065" alt="Screenshot 2024-12-28 at 9 32 32 PM" src="https://github.com/user-attachments/assets/0360ab15-378f-486e-a8bd-58e7eab85d7a" />
 
 •	Developed an interactive dashboard by Cognos IBM to analyze revenue and profit trends by product line, location, and year, and track top-performing cities by quantity sold.
